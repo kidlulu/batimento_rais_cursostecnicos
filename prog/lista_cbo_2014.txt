@@ -1,0 +1,184 @@
+id	eixo	curso	cd_cbo	desc_cbo	marc_inc
+1	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Automação Industrial 	300105	Técnico em mecatrônica - automação da manufatura	
+2	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Automação Industrial 	313410	Técnico em instrumentação	
+3	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Automação Industrial 	313205	Técnico de manutenção eletrônica	
+4	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Automação Industrial 	313210	Técnico de manutenção eletrônica (circuitos de máquinas com comando numérico)	
+5	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Automação Industrial 	313215	Técnico eletrônico	
+6	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Automação Industrial 	352310	Agente fiscal de qualidade	
+7	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Eletroeletrônica 	313105	Eletrotécnico	
+8	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Eletroeletrônica 	313120	Técnico de manutenção elétrica	
+9	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Eletroeletrônica 	313210	Técnico de manutenção eletrônica (circuitos de máquinas com comando numérico)	
+10	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Eletroeletrônica 	313215	Técnico eletrônico	
+11	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Eletroeletrônica 	352310	Agente fiscal de qualidade	
+12	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Eletromecânica 	300305	Técnico em Eletromecânica	
+13	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Eletromecânica 	352310	Agente fiscal de qualidade	
+14	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Eletrônica 	313205	Técnico de manutenção eletrônica	
+15	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Eletrônica 	313210	Técnico de manutenção eletrônica (circuitos de máquinas com comando numérico)	
+16	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Eletrônica 	313215	Técnico eletrônico	
+17	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Eletrônica 	318305	Desenhista técnico (eletricidade e eletrônica)	
+18	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Eletrônica 	318710	Desenhista projetista eletrônico	
+19	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Eletrotécnica 	313105	Eletrotécnico	
+20	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Eletrotécnica 	313110	Eletrotécnico (produção de energia)	
+21	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Eletrotécnica 	313115	Eletrotécnico na fabricação, montagem e instalação de máquinas e equipamentos	
+22	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Eletrotécnica 	313120	Técnico de manutenção elétrica	
+23	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Eletrotécnica 	313125	Técnico de manutenção elétrica de máquina	
+24	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Eletrotécnica 	313130	Técnico eletricista	
+25	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Eletrotécnica 	318705	Desenhista projetista de eletricidade	
+26	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Fabricação Mecânica 	314110	Técnico mecânico	
+27	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Fabricação Mecânica 	391125	Técnico de planejamento de produção	
+28	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Fabricação Mecânica 	314205	Técnico mecânico na fabricação de ferramentas	
+29	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Fabricação Mecânica 	314610	Técnico em caldeiraria	
+30	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Manutenção Automotiva 	314305	Técnico em automobilística	
+31	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Manutenção Automotiva 	314405	Técnico de manutenção de sistemas e instrumentos	
+32	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Manutenção de Aeronaves em Aviônicos 	314310	Técnico mecânico (aeronaves)	
+33	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Manutenção de Aeronaves em Aviônicos 	341115	Mecânico de vôo	
+34	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Manutenção de Aeronaves em Aviônicos 	914105	Mecânico de manutenção de aeronaves, em geral	
+35	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Manutenção de Aeronaves em Aviônicos 	314405	Técnico de manutenção de sistemas e instrumentos	
+36	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Manutenção de Aeronaves em Célula 	314310	Técnico mecânico (aeronaves)	
+37	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Manutenção de Aeronaves em Célula 	341115	Mecânico de vôo	
+38	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Manutenção de Aeronaves em Célula 	914105	Mecânico de manutenção de aeronaves, em geral	
+39	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Manutenção de Aeronaves em Célula 	914110	Mecânico de manutenção de sistema hidráulico de aeronaves (serviços de pista e hangar)	
+40	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Manutenção de Aeronaves em Célula 	314405	Técnico de manutenção de sistemas e instrumentos	
+41	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Manutenção de Aeronaves em Grupo Motopropulsor 	314310	Técnico mecânico (aeronaves)	
+42	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Manutenção de Aeronaves em Grupo Motopropulsor 	341115	Mecânico de vôo	
+43	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Manutenção de Aeronaves em Grupo Motopropulsor 	725405	Mecânico montador de motores de aeronaves	
+44	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Manutenção de Aeronaves em Grupo Motopropulsor 	725605	Montador de estruturas de aeronaves	
+45	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Manutenção de Aeronaves em Grupo Motopropulsor 	314405	Técnico de manutenção de sistemas e instrumentos	
+46	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Manutenção de Máquinas Industriais 	314410	Técnico em manutenção de máquinas	
+47	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Manutenção de Máquinas Industriais 	911305	Mecânico de manutenção de máquinas, em geral	
+48	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Manutenção de Máquinas Industriais 	911310	Mecânico de manutenção de máquinas gráficas	
+49	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Manutenção de Máquinas Industriais 	911320	Mecânico de manutenção de máquinas têxteis	
+50	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Manutenção de Máquinas Industriais 	911325	Mecânico de manutenção de máquinasferramentas (usinagem de metais)	
+51	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Manutenção de Máquinas Industriais 	314405	Técnico de manutenção de sistemas e instrumentos	
+52	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Manutenção de Máquinas Navais 	314315	Técnico mecânico (embarcações)	
+53	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Manutenção de Máquinas Navais 	914205	Mecânico de manutenção de motores e equipamentos navais	
+54	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Manutenção de Máquinas Navais 	314405	Técnico de manutenção de sistemas e instrumentos	
+55	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Manutenção de Máquinas Pesadas 	314410	Técnico em manutenção de máquinas	
+56	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Manutenção de Máquinas Pesadas 	314405	Técnico de manutenção de sistemas e instrumentos	
+57	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Manutenção de Máquinas Pesadas 	913105	Mecânico de manutenção de aparelhos de levantamento	
+58	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Manutenção de Máquinas Pesadas 	913110	Mecânico de manutenção de equipamento de mineração	
+59	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Manutenção de Máquinas Pesadas 	913115	Mecânico de manutenção de máquinas agrícolas	
+60	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Manutenção de Máquinas Pesadas 	913120	Mecânico de manutenção de máquinas de construção e terraplenagem	
+61	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Manutenção de Máquinas Pesadas 	914420	Mecânico de manutenção de tratores	
+62	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Manutenção Metroferroviária 	914305	Mecânico de manutenção de veículos ferroviários	
+63	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Manutenção Metroferroviária 	352310	Agente fiscal de qualidade	
+64	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Manutenção Metroferroviária 	314405	Técnico de manutenção de sistemas e instrumentos	
+65	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Mecânica 	314110	Técnico mecânico	
+66	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Mecânica 	314120	Técnico mecânico (máquinas)	
+67	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Mecânica 	314125	Técnico mecânico (motores)	
+68	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Mecânica de Precisão 	314110	Técnico mecânico	
+69	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Mecânica de Precisão 	314105	Técnico em mecânica de precisão	
+70	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Mecânica de Precisão 	915105	Técnico em manutenção de instrumentos de medição e precisão	
+71	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Mecatrônica 	300110	Técnico em mecatrônica - robótica	
+72	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Mecatrônica 	300105	Técnico em mecatrônica - automação da manufatura	
+73	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Mecatrônica 	300305	Técnico em eletromecânica	
+74	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Mecatrônica 	352310	Agente fiscal de qualidade	
+75	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Metalurgia 	314705	Técnico de acabamento em siderurgia	
+76	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Metalurgia 	314605	Inspetor de soldagem	
+77	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Metrologia 	352305	Metrologista	
+78	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Metrologia 	313405	Técnico em calibração	
+79	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Metrologia 	313415	Encarregado de manutenção de instrumentos de controle, medição e similares	
+80	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Metrologia 	352315	Agente fiscal metrológico	
+81	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Refrigeração e Climatização 	314115	Técnico mecânico (calefação, ventilação e refrigeração)	
+82	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Refrigeração e Climatização 	911205	Mecânico de manutenção e instalação de aparelhos de climatização e  refrigeração	
+83	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Sistemas a Gás 	314110	Técnico mecânico	
+84	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Sistemas de Energia Renovável 	313110	Eletrotécnico (produção de energia)	
+85	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Soldagem 	314620	Técnico em soldagem	
+86	CONTROLE E PROCESSOS INDUSTRIAIS 	Técnico em Soldagem 	314605	Inspetor de soldagem	
+87	DESENVOLVIMENTO EDUCACIONAL E SOCIAL 	Técnico em Alimentação Escolar 	---		
+88	DESENVOLVIMENTO EDUCACIONAL E SOCIAL 	Técnico em Biblioteconomia 	371110	Técnico em Biblioteconomia	
+89	DESENVOLVIMENTO EDUCACIONAL E SOCIAL 	Técnico em Infraestrutura Escolar 	---		
+90	DESENVOLVIMENTO EDUCACIONAL E SOCIAL 	Técnico em Laboratório de Ciências 	311105	Técnico químico*	---
+91	DESENVOLVIMENTO EDUCACIONAL E SOCIAL 	Técnico em Ludoteca 	371410	Recreador	
+92	DESENVOLVIMENTO EDUCACIONAL E SOCIAL 	Técnico em Multimeios Didáticos 	---		
+93	DESENVOLVIMENTO EDUCACIONAL E SOCIAL 	Técnico em Orientação Comunitária 	515305	Educador social	
+94	DESENVOLVIMENTO EDUCACIONAL E SOCIAL 	Técnico em Orientação Comunitária 	515310	Agente de ação social	
+95	DESENVOLVIMENTO EDUCACIONAL E SOCIAL 	Técnico em Produção de Materiais Didáticos Bilíngues em Libras/Língua Portuguesa 	---		
+96	DESENVOLVIMENTO EDUCACIONAL E SOCIAL 	Técnico em Secretaria Escolar 	252320	Tecnólogo em secretariado escolar*	---
+97	DESENVOLVIMENTO EDUCACIONAL E SOCIAL 	Técnico em Tradução e Interpretação de Libras 	261425	Intérprete em línguas de sinais*	---
+98	DESENVOLVIMENTO EDUCACIONAL E SOCIAL 	Técnico em Treinamento e Instrução de Cães-Guias 	---		
+99	GESTÃO E NEGÓCIOS 	Técnico em Administração 	351305	Técnico em Administração	
+100	GESTÃO E NEGÓCIOS 	Técnico em Agronegócio 	---		
+101	GESTÃO E NEGÓCIOS 	Técnico em Comércio 	354205	Comprador	
+102	GESTÃO E NEGÓCIOS 	Técnico em Comércio 	521115	Promotor de Vendas	
+103	GESTÃO E NEGÓCIOS 	Técnico em Comércio 	354705	Representante comercial autônomo	
+104	GESTÃO E NEGÓCIOS 	Técnico em Comércio 	354140	Técnico em Atendimento e Vendas	
+105	GESTÃO E NEGÓCIOS 	Técnico em Comércio Exterior 	351310	Técnico em administração de comércio exterior	
+106	GESTÃO E NEGÓCIOS 	Técnico em Comércio Exterior 	342105	Analista de transporte em comércio exterior	
+107	GESTÃO E NEGÓCIOS 	Técnico em Comércio Exterior 	342210	Despachante aduaneiro	
+108	GESTÃO E NEGÓCIOS 	Técnico em Condomínio 	510110	Administrador de Edifícios	
+109	GESTÃO E NEGÓCIOS 	Técnico em Contabilidade 	351105	Técnico de contabilidade	
+110	GESTÃO E NEGÓCIOS 	Técnico em Contabilidade 	351110	Chefe de contabilidade (técnico)	
+111	GESTÃO E NEGÓCIOS 	Técnico em Contabilidade 	351115	Consultor contábil (técnico)	
+112	GESTÃO E NEGÓCIOS 	Técnico em Controle de Qualidade 	391205	Inspetor de qualidade	
+113	GESTÃO E NEGÓCIOS 	Técnico em Cooperativismo	---		
+114	GESTÃO E NEGÓCIOS 	Técnico em Finanças 	353205	Técnico de operações e serviços bancários - câmbio	
+115	GESTÃO E NEGÓCIOS 	Técnico em Finanças 	353210	Técnico de operações e serviços bancários - crédito imobiliário	
+116	GESTÃO E NEGÓCIOS 	Técnico em Finanças 	353215	Técnico de operações e serviços bancários - crédito rural	
+117	GESTÃO E NEGÓCIOS 	Técnico em Finanças 	353220	Técnico de operações e serviços bancários - leasing	
+118	GESTÃO E NEGÓCIOS 	Técnico em Finanças 	353225	Técnico de operações e serviços bancários - renda fixa e variável	
+119	GESTÃO E NEGÓCIOS 	Técnico em Finanças 	353235	Chefe de serviços bancários	
+120	GESTÃO E NEGÓCIOS 	Técnico em Finanças 	353230	Tesoureiro de banco	
+121	GESTÃO E NEGÓCIOS 	Técnico em Finanças 	252515	Analista de cobrança (instituições financeiras)	
+122	GESTÃO E NEGÓCIOS 	Técnico em Finanças 	252525	Analista de crédito (instituições financeiras)	
+123	GESTÃO E NEGÓCIOS 	Técnico em Finanças 	252545	Analista financeiro (instituições financeiras)	
+124	GESTÃO E NEGÓCIOS 	Técnico em Finanças 	253305	Corretor de valores, ativos financeiros, mercadorias e derivativos	
+125	GESTÃO E NEGÓCIOS 	Técnico em Logística 	391125	Técnico de planejamento de produção	
+126	GESTÃO E NEGÓCIOS 	Técnico em Logística 	342110	Operador de transporte multimodal	
+127	GESTÃO E NEGÓCIOS 	Técnico em Logística 	391115	Controlador de entrada e saída	
+128	GESTÃO E NEGÓCIOS 	Técnico em Marketing 	354140	Técnico em Atendimento e Vendas	
+129	GESTÃO E NEGÓCIOS 	Técnico em Marketing 	354130	Promotor de vendas especializado	
+130	GESTÃO E NEGÓCIOS 	Técnico em Recursos Humanos 	351315	Agente de recrutamento e seleção	
+131	GESTÃO E NEGÓCIOS 	Técnico em Secretariado 	351505	Técnico em secretariado	
+132	GESTÃO E NEGÓCIOS 	Técnico em Seguros 	351740	Técnico de seguros	
+133	GESTÃO E NEGÓCIOS 	Técnico em Seguros 	351735	Técnico de resseguros	
+134	GESTÃO E NEGÓCIOS 	Técnico em Seguros 	351710	Analista de sinistros	
+135	GESTÃO E NEGÓCIOS 	Técnico em Seguros 	354505	Corretor de seguros	
+136	GESTÃO E NEGÓCIOS 	Técnico em Serviços Jurídicos 	351430	Auxiliar de serviços jurídicos	
+137	GESTÃO E NEGÓCIOS 	Técnico em Serviços Jurídicos 	351405	Escrevente	
+138	GESTÃO E NEGÓCIOS 	Técnico em Serviços Públicos 	---		
+139	GESTÃO E NEGÓCIOS 	Técnico em Transações Imobiliárias 	354605	Corretor de imóveis	
+140	GESTÃO E NEGÓCIOS 	Técnico em Transações Imobiliárias 	354205	Comprador	
+141	GESTÃO E NEGÓCIOS 	Técnico em Transações Imobiliárias 	354410	Avaliador de imóveis	
+142	GESTÃO E NEGÓCIOS 	Técnico em Transações Imobiliárias 	354140	Técnico em atendimento e vendas	
+143	GESTÃO E NEGÓCIOS 	Técnico em Transações Imobiliárias 	354130	Promotor de vendas especializado	
+144	GESTÃO E NEGÓCIOS 	Técnico em Vendas 	354135	Técnico de vendas	
+145	GESTÃO E NEGÓCIOS 	Técnico em Vendas 	354140	Técnico em atendimento e vendas	
+146	GESTÃO E NEGÓCIOS 	Técnico em Vendas 	521115	Promotor de vendas	
+147	GESTÃO E NEGÓCIOS 	Técnico em Vendas 	354705	Representante comercial autônomo	
+148	INFORMAÇÃO E COMUNICAÇÃO 	Técnico em Computação Gráfica 	317120	Programador de multimídia	
+149	INFORMAÇÃO E COMUNICAÇÃO 	Técnico em Desenvolvimento de Sistemas 	317105	Programador de internet	
+150	INFORMAÇÃO E COMUNICAÇÃO 	Técnico em Desenvolvimento de Sistemas 	317110	Programador de sistemas de informação	
+151	INFORMAÇÃO E COMUNICAÇÃO 	Técnico em Informática 	317110	Programador de sistemas de informação	
+152	INFORMAÇÃO E COMUNICAÇÃO 	Técnico em Informática 	317210	Técnico de apoio ao usuário de informática (helpdesk)	
+153	INFORMAÇÃO E COMUNICAÇÃO 	Técnico em Informática 	317205	Operador de computador (inclusive microcomputador)	
+154	INFORMAÇÃO E COMUNICAÇÃO 	Técnico em Informática 	313220	Técnico em manutenção de equipamentos de informática	
+155	INFORMAÇÃO E COMUNICAÇÃO 	Técnico em Informática 	212315	Administrador de sistemas operacionais	
+156	INFORMAÇÃO E COMUNICAÇÃO 	Técnico em Informática para Internet 	317105	Programador de internet	
+157	INFORMAÇÃO E COMUNICAÇÃO 	Técnico em Informática para Internet 	317120	Programador de multimídia	
+158	INFORMAÇÃO E COMUNICAÇÃO 	Técnico em Informática para Internet 	317110	Programador de sistemas de informação	
+159	INFORMAÇÃO E COMUNICAÇÃO 	Técnico em Manutenção e Suporte em Informática 	313220	Técnico em manutenção de equipamentos de informática	
+160	INFORMAÇÃO E COMUNICAÇÃO 	Técnico em Manutenção e Suporte em Informática 	317210	Técnico de apoio ao usuário de informática (helpdesk)	
+161	INFORMAÇÃO E COMUNICAÇÃO 	Técnico em Programação de Jogos Digitais 	317120	Programador de multimídia	
+162	INFORMAÇÃO E COMUNICAÇÃO 	Técnico em Redes de Computadores 	212315	Administrador de sistemas operacionais	
+163	INFORMAÇÃO E COMUNICAÇÃO 	Técnico em Redes de Computadores 	313220	Técnico em Manutenção de equipamentos de informática	
+164	INFORMAÇÃO E COMUNICAÇÃO 	Técnico em Redes de Computadores 	317210	Técnico de apoio ao usuário de informática (helpdesk)	
+165	INFORMAÇÃO E COMUNICAÇÃO 	Técnico em Sistemas de Comutação 	313310	Técnico de rede (telecomunicações)	
+166	INFORMAÇÃO E COMUNICAÇÃO 	Técnico em Sistemas de Comutação 	313305	Técnico de comunicação de dados	
+167	INFORMAÇÃO E COMUNICAÇÃO 	Técnico em Sistemas de Comutação 	731305	Instaladorreparador de equipamentos de comutação em telefonia	
+168	INFORMAÇÃO E COMUNICAÇÃO 	Técnico em Sistemas de Transmissão 	313320	Técnico de transmissão (telecomunicações)	
+169	INFORMAÇÃO E COMUNICAÇÃO 	Técnico em Sistemas de Transmissão 	313310	Técnico de rede (telecomunicações)	
+170	INFORMAÇÃO E COMUNICAÇÃO 	Técnico em Sistemas de Transmissão 	313305	Técnico de comunicação de dados	
+171	INFORMAÇÃO E COMUNICAÇÃO 	Técnico em Sistemas de Transmissão 	313315	Técnico de Telecomunicações (Telefonia)	
+172	INFORMAÇÃO E COMUNICAÇÃO 	Técnico em Sistemas de Transmissão 	391205	Inspetor de qualidade	
+173	INFORMAÇÃO E COMUNICAÇÃO 	Técnico em Telecomunicações 	313315	Técnico de telecomunicações (telefonia)	
+174	INFORMAÇÃO E COMUNICAÇÃO 	Técnico em Telecomunicações 	313305	Técnico de comunicação de dados	
+175	INFORMAÇÃO E COMUNICAÇÃO 	Técnico em Telecomunicações 	313310	Técnico de rede (telecomunicações)	
+176	INFORMAÇÃO E COMUNICAÇÃO 	Técnico em Telecomunicações 	313320	Técnico de transmissão (telecomunicações)	
+177	INFRAESTRUTURA 	Técnico Aeroportuário 	342540	Supervisor da administração de aeroportos	
+178	INFRAESTRUTURA 	Técnico Aeroportuário 	342210	Despachante aduaneiro	
+179	INFRAESTRUTURA 	Técnico Aeroportuário 	342510	Despachante operacional de vôo	
+180	INFRAESTRUTURA 	Técnico Aeroportuário 	342515	Fiscal de aviação civil (FAC)	
+181	INFRAESTRUTURA 	Técnico Aeroportuário 	342530	Inspetor de aviação civil	
+182	INFRAESTRUTURA 	Técnico Aeroportuário 	342535	Operador de atendimento aeroviário	
+183	INFRAESTRUTURA 	Técnico em Agrimensura 	312320	Topógrafo	

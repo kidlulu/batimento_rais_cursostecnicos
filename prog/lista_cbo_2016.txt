@@ -1,0 +1,502 @@
+id	eixo	curso	cd_cbo	desc_cbo
+1	AMBIENTE E SAÚDE	Técnico em Agente Comunitário de Saúde	352210	Agente de Saúde Pública
+2	AMBIENTE E SAÚDE	Técnico em Agente Comunitário de Saúde	515105	Agente Comunitário de Saúde
+3	AMBIENTE E SAÚDE	Técnico em Análises Clínicas	324205	Técnico em patologia clínica
+4	AMBIENTE E SAÚDE	Técnico em Citopatologia	324205	Técnico em patologia clínica
+5	AMBIENTE E SAÚDE	Técnico em Controle Ambiental	311505	Técnico de controle de meio ambiente
+6	AMBIENTE E SAÚDE	Técnico em Cuidados de Idosos	516210	Cuidador de Idosos
+7	AMBIENTE E SAÚDE	Técnico em Cuidados de Idosos	516220	Cuidador em Saúde
+8	AMBIENTE E SAÚDE	Técnico em Enfermagem	322205	Técnico de enfermagem
+9	AMBIENTE E SAÚDE	Técnico em Equipamentos Biomédicos	915305	Técnico em manutenção de equipamentos e instrumentos médico-hospitalares
+10	AMBIENTE E SAÚDE	Técnico em Estética	322130	Esteticista
+11	AMBIENTE E SAÚDE	Técnico em Farmácia	325115	Técnico em Farmácia
+12	AMBIENTE E SAÚDE	Técnico em Farmácia	325110	Técnico em laboratório de farmácia
+13	AMBIENTE E SAÚDE	Técnico em Gerência de Saúde	---	
+14	AMBIENTE E SAÚDE	Técnico em Hemoterapia	---	
+15	AMBIENTE E SAÚDE	Técnico em Imagem Pessoal	---	
+16	AMBIENTE E SAÚDE	Técnico em Imobilizações ortopédicas	322605	Técnico de imobilização ortopédica
+17	AMBIENTE E SAÚDE	Técnico em Massoterapia	322120	Massoterapeuta
+18	AMBIENTE E SAÚDE	Técnico em Meio Ambiente	311505	Técnico de controle de meio ambiente
+19	AMBIENTE E SAÚDE	Técnico em Meio Ambiente	311520	Técnico em tratamento de efluentes
+20	AMBIENTE E SAÚDE	Técnico em Meio Ambiente	311515	Técnico de utilidade (produção e distribuição de vapor, gases, óleos, combustíveis, energia)
+21	AMBIENTE E SAÚDE	Técnico em Meteorologia	311510	Técnico de meteorologia
+22	AMBIENTE E SAÚDE	Técnico em Necropsia	328105	Embalsamador
+23	AMBIENTE E SAÚDE	Técnico em Necropsia	328110	Taxidermista
+24	AMBIENTE E SAÚDE	Técnico em Nutrição e Dietética	325210	Técnico em nutrição e dietética
+25	AMBIENTE E SAÚDE	Técnico em Óptica	322305	Técnico em óptica e optometria
+26	AMBIENTE E SAÚDE	Técnico em Órteses e Próteses	322505	Técnico de ortopedia
+27	AMBIENTE E SAÚDE	Técnico em Podologia	322110	Podólogo
+28	AMBIENTE E SAÚDE	Técnico em Prótese Dentária	322410	Protético dentário
+29	AMBIENTE E SAÚDE	Técnico em Radiologia	324115	Técnico em radiologia e imagenologia
+30	AMBIENTE E SAÚDE	Técnico em Reabilitação de Dependentes Químicos	515315	Monitor de dependente químico
+31	AMBIENTE E SAÚDE	Técnico em Reciclagem	---	
+32	AMBIENTE E SAÚDE	Técnico em Registros e Informações em Saúde	---	
+33	AMBIENTE E SAÚDE	Técnico em Saúde Bucal	322405	Técnico em saúde bucal
+34	AMBIENTE E SAÚDE	Técnico em Vigilância em Saúde	352210	Agente de saúde pública
+35	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Automação Industrial	300105	Técnico em mecatrônica - automação da manufatura
+36	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Automação Industrial	313410	Técnico em instrumentação
+37	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Automação Industrial	313205	Técnico de manutenção eletrônica
+38	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Automação Industrial	313210	Técnico de manutenção eletrônica (circuitos de máquinas com comando numérico)
+39	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Automação Industrial	313215	Técnico eletrônico
+40	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Automação Industrial	352310	Agente fiscal de qualidade
+41	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Eletroeletrônica	313105	Eletrotécnico
+42	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Eletroeletrônica	313120	Técnico de manutenção elétrica
+43	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Eletroeletrônica	313210	Técnico de manutenção eletrônica (circuitos de máquinas com comando numérico)
+44	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Eletroeletrônica	313215	Técnico eletrônico
+45	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Eletroeletrônica	352310	Agente fiscal de qualidade
+46	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Eletromecânica	300305	Técnico em Eletromecânica
+47	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Eletromecânica	352310	Agente fiscal de qualidade
+48	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Eletrônica	313205	Técnico de manutenção eletrônica
+49	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Eletrônica	313210	Técnico de manutenção eletrônica (circuitos de máquinas com comando numérico)
+50	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Eletrônica	313215	Técnico eletrônico
+51	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Eletrônica	318305	Desenhista técnico (eletricidade e eletrônica)
+52	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Eletrônica	318710	Desenhista projetista eletrônico
+53	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Eletrotécnica	313105	Eletrotécnico
+54	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Eletrotécnica	313110	Eletrotécnico (produção de energia)
+55	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Eletrotécnica	313115	Eletrotécnico na fabricação, montagem e instalação de máquinas e equipamentos
+56	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Eletrotécnica	313120	Técnico de manutenção elétrica
+57	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Eletrotécnica	313125	Técnico de manutenção elétrica de máquina
+58	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Eletrotécnica	313130	Técnico eletricista
+59	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Eletrotécnica	318705	Desenhista projetista de eletricidade
+60	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Manutenção Automotiva	314305	Técnico em automobilística
+61	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Manutenção Automotiva	314405	Técnico de manutenção de sistemas e instrumentos
+62	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Manutenção de Aeronaves em Aviônicos	314310	Técnico mecânico (aeronaves)
+63	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Manutenção de Aeronaves em Aviônicos	341115	Mecânico de voo
+64	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Manutenção de Aeronaves em Aviônicos	914105	Mecânico de manutenção de aeronaves, em geral
+65	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Manutenção de Aeronaves em Aviônicos	314405	Técnico de manutenção de sistemas e instrumentos
+66	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Manutenção de Aeronaves em Célula	314310	Técnico mecânico (aeronaves)
+67	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Manutenção de Aeronaves em Célula	341115	Mecânico de voo
+68	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Manutenção de Aeronaves em Célula	914105	Mecânico de manutenção de aeronaves, em geral
+69	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Manutenção de Aeronaves em Célula	914110	Mecânico de manutenção de sistema hidráulico de aeronaves (serviços de pista e hangar)
+70	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Manutenção de Aeronaves em Célula	314405	Técnico de manutenção de sistemas e instrumentos
+71	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Manutenção de Aeronaves em Grupo Motopropulsor	314310	Técnico mecânico (aeronaves)
+72	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Manutenção de Aeronaves em Grupo Motopropulsor	341115	Mecânico de voo
+73	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Manutenção de Aeronaves em Grupo Motopropulsor	725405	Mecânico montador de motores de aeronaves
+74	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Manutenção de Aeronaves em Grupo Motopropulsor	725605	Montador de estruturas de aeronaves
+75	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Manutenção de Aeronaves em Grupo Motopropulsor	314405	Técnico de manutenção de sistemas e instrumentos
+76	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Manutenção de Máquinas Industriais	314410	Técnico em manutenção de máquinas
+77	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Manutenção de Máquinas Industriais	911305	Mecânico de manutenção de máquinas, em geral
+78	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Manutenção de Máquinas Industriais	911310	Mecânico de manutenção de máquinas gráficas
+79	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Manutenção de Máquinas Industriais	911320	Mecânico de manutenção de máquinas têxteis
+80	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Manutenção de Máquinas Industriais	911325	Mecânico de manutenção de máquinasferramentas (usinagem de metais)
+81	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Manutenção de Máquinas Industriais	314405	Técnico de manutenção de sistemas e instrumentos
+82	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Manutenção de Máquinas Navais	314315	Técnico mecânico (embarcações)
+83	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Manutenção de Máquinas Navais	914205	Mecânico de manutenção de motores e equipamentos navais
+84	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Manutenção de Máquinas Navais	314405	Técnico de manutenção de sistemas e instrumentos
+85	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Manutenção de Máquinas Pesadas	314410	Técnico em manutenção de máquinas
+86	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Manutenção de Máquinas Pesadas	314405	Técnico de manutenção de sistemas e instrumentos
+87	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Manutenção de Máquinas Pesadas	913105	Mecânico de manutenção de aparelhos de levantamento
+88	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Manutenção de Máquinas Pesadas	913110	Mecânico de manutenção de equipamento de mineração
+89	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Manutenção de Máquinas Pesadas	913115	Mecânico de manutenção de máquinas agrícolas
+90	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Manutenção de Máquinas Pesadas	913120	Mecânico de manutenção de máquinas de construção e terraplenagem
+91	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Manutenção de Máquinas Pesadas	914420	Mecânico de manutenção de tratores
+92	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Manutenção de Sistemas Metroferroviários	914305	Mecânico de manutenção de veículos ferroviários
+93	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Manutenção de Sistemas Metroferroviários	352310	Agente fiscal de qualidade
+94	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Manutenção de Sistemas Metroferroviários	314405	Técnico de manutenção de sistemas e instrumentos
+95	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Mecânica	314110	Técnico mecânico
+96	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Mecânica	314120	Técnico mecânico (máquinas)
+97	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Mecânica	314125	Técnico mecânico (motores)
+98	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Mecânica de Precisão	314110	Técnico mecânico
+99	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Mecânica de Precisão	314105	Técnico em mecânica de precisão
+100	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Mecânica de Precisão	915105	Técnico em manutenção de instrumentos de medição e precisão
+101	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Mecatrônica	300110	Técnico em mecatrônica-robótica
+102	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Mecatrônica	300105	Técnico em mecatrônica-automação da manufatura
+103	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Mecatrônica	300305	Técnico em eletromecânica
+104	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Mecatrônica	352310	Agente fiscal de qualidade
+105	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Metalurgia	314705	Técnico de acabamento em siderurgia
+106	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Metalurgia	314605	Inspetor de soldagem
+107	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Metrologia	352305	Metrologista
+108	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Metrologia	313405	Técnico em calibração
+109	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Metrologia	313415	Encarregado de manutenção de instrumentos de controle, medição e similares
+110	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Metrologia	352315	Agente fiscal metrológico
+111	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Processamento da Madeira	321205	Técnico em madeira
+112	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Refrigeração e Climatização	314115	Técnico mecânico (calefação, ventilação e refrigeração)
+113	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Refrigeração e Climatização	911205	Mecânico de manutenção e instalação de aparelhos de climatização e refrigeração
+114	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Sistemas a Gás	314110	Técnico mecânico
+115	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Sistemas de Energia Renovável	313110	Eletrotécnico (produção de energia)
+116	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Soldagem	314620	Técnico em soldagem
+117	CONTROLE E PROCESSOS INDUSTRIAIS	Técnico em Soldagem	314605	Inspetor de soldagem
+118	DESENVOLVIMENTO EDUCACIONAL E SOCIAL 	Técnico em Alimentação Escolar	---	
+119	DESENVOLVIMENTO EDUCACIONAL E SOCIAL 	Técnico em Biblioteconomia	371110	Técnico em Biblioteconomia
+120	DESENVOLVIMENTO EDUCACIONAL E SOCIAL 	Técnico em Infraestrutura Escolar	---	
+121	DESENVOLVIMENTO EDUCACIONAL E SOCIAL 	Técnico em Laboratório de Ciências da Natureza	---	
+122	DESENVOLVIMENTO EDUCACIONAL E SOCIAL 	Técnico em Ludoteca	371410	Recreador
+123	DESENVOLVIMENTO EDUCACIONAL E SOCIAL 	Técnico em Multimeios Didáticos	---	
+124	DESENVOLVIMENTO EDUCACIONAL E SOCIAL 	Técnico em orientação Comunitária	515305	Educador social
+125	DESENVOLVIMENTO EDUCACIONAL E SOCIAL 	Técnico em orientação Comunitária	515310	Agente de ação social
+126	DESENVOLVIMENTO EDUCACIONAL E SOCIAL 	Técnico em Produção de Materiais Didáticos Bilíngues em Libras/Língua Portuguesa	---	
+127	DESENVOLVIMENTO EDUCACIONAL E SOCIAL 	Técnico em Secretaria Escolar	---	
+128	DESENVOLVIMENTO EDUCACIONAL E SOCIAL 	Técnico em Tradução e Interpretação de Libras	---	
+129	DESENVOLVIMENTO EDUCACIONAL E SOCIAL 	Técnico em Treinamento e Instrução de Cães-Guias	---	
+130	GESTÃO E NEGÓCIOS	Técnico em Administração	351305	Técnico em Administração
+131	GESTÃO E NEGÓCIOS	Técnico em Comércio	354205	Comprador
+132	GESTÃO E NEGÓCIOS	Técnico em Comércio	521115	Promotor de Vendas
+133	GESTÃO E NEGÓCIOS	Técnico em Comércio	354705	Representante comercial autônomo
+134	GESTÃO E NEGÓCIOS	Técnico em Comércio	354140	Técnico em Atendimento e Vendas
+135	GESTÃO E NEGÓCIOS	Técnico em Comércio Exterior	351310	Técnico em administração de comércio exterior
+136	GESTÃO E NEGÓCIOS	Técnico em Comércio Exterior	342105	Analista de transporte em comércio exterior
+137	GESTÃO E NEGÓCIOS	Técnico em Comércio Exterior	342210	Despachante aduaneiro
+138	GESTÃO E NEGÓCIOS	Técnico em Condomínio	510110	Administrador de Edifícios
+139	GESTÃO E NEGÓCIOS	Técnico em Contabilidade	351105	Técnico de contabilidade
+140	GESTÃO E NEGÓCIOS	Técnico em Contabilidade	351110	Chefe de contabilidade (técnico)
+141	GESTÃO E NEGÓCIOS	Técnico em Contabilidade	351115	Consultor contábil (técnico)
+142	GESTÃO E NEGÓCIOS	Técnico em Cooperativismo	---	
+143	GESTÃO E NEGÓCIOS	Técnico em Finanças	353205	Técnico de operações e serviços bancários-câmbio
+144	GESTÃO E NEGÓCIOS	Técnico em Finanças	353210	Técnico de operações e serviços bancários-crédito imobiliário
+145	GESTÃO E NEGÓCIOS	Técnico em Finanças	353215	Técnico de operações e serviços bancários-crédito rural
+146	GESTÃO E NEGÓCIOS	Técnico em Finanças	353220	Técnico de operações e serviços bancários-leasing
+147	GESTÃO E NEGÓCIOS	Técnico em Logística	391125	Técnico de planejamento de produção
+148	GESTÃO E NEGÓCIOS	Técnico em Logística	342110	Operador de transporte multimodal
+149	GESTÃO E NEGÓCIOS	Técnico em Logística	391115	Controlador de entrada e saída
+150	GESTÃO E NEGÓCIOS	Técnico em Marketing	354140	Técnico em Atendimento e Vendas
+151	GESTÃO E NEGÓCIOS	Técnico em Marketing	354130	Promotor de vendas especializado
+152	GESTÃO E NEGÓCIOS	Técnico em Qualidade	391205	Inspetor de qualidade
+153	GESTÃO E NEGÓCIOS	Técnico em Recursos Humanos	351315	Agente de recrutamento e seleção
+154	GESTÃO E NEGÓCIOS	Técnico em Secretariado	351505	Técnico em secretariado
+155	GESTÃO E NEGÓCIOS	Técnico em Seguros	351740	Técnico de seguros
+156	GESTÃO E NEGÓCIOS	Técnico em Seguros	351735	Técnico de resseguros
+157	GESTÃO E NEGÓCIOS	Técnico em Seguros	351710	Analista de sinistros
+158	GESTÃO E NEGÓCIOS	Técnico em Seguros	354505	Corretor de seguros
+159	GESTÃO E NEGÓCIOS	Técnico em Serviços Jurídicos	351430	Auxiliar de serviços jurídicos
+160	GESTÃO E NEGÓCIOS	Técnico em Serviços Jurídicos	351405	Escrevente
+161	GESTÃO E NEGÓCIOS	Técnico em Serviços Públicos	---	
+162	GESTÃO E NEGÓCIOS	Técnico em Transações Imobiliárias	354605	Corretor de imóveis
+163	GESTÃO E NEGÓCIOS	Técnico em Transações Imobiliárias	354205	Comprador
+164	GESTÃO E NEGÓCIOS	Técnico em Transações Imobiliárias	354410	Avaliador de imóveis
+165	GESTÃO E NEGÓCIOS	Técnico em Transações Imobiliárias	354140	Técnico em atendimento e vendas
+166	GESTÃO E NEGÓCIOS	Técnico em Transações Imobiliárias	354130	Promotor de vendas especializado
+167	GESTÃO E NEGÓCIOS	Técnico em Vendas	354135	Técnico de vendas
+168	GESTÃO E NEGÓCIOS	Técnico em Vendas	354140	Técnico em atendimento e vendas
+169	GESTÃO E NEGÓCIOS	Técnico em Vendas	521115	Promotor de vendas
+170	GESTÃO E NEGÓCIOS	Técnico em Vendas	354705	Representante comercial autônomo
+171	INFORMAÇÃO E COMUNICAÇÃO	Técnico em Computação Gráfica	317120	Programador de multimídia
+172	INFORMAÇÃO E COMUNICAÇÃO	Técnico em Desenvolvimento de Sistemas	317105	Programador de internet
+173	INFORMAÇÃO E COMUNICAÇÃO	Técnico em Desenvolvimento de Sistemas	317110	Programador de sistemas de informação
+174	INFORMAÇÃO E COMUNICAÇÃO	Técnico em Informática	317110	Programador de sistemas de informação
+175	INFORMAÇÃO E COMUNICAÇÃO	Técnico em Informática	317210	Técnico de apoio ao usuário de informática (helpdesk)
+176	INFORMAÇÃO E COMUNICAÇÃO	Técnico em Informática	317205	Operador de computador (inclusive microcomputador)
+177	INFORMAÇÃO E COMUNICAÇÃO	Técnico em Informática	313220	Técnico em manutenção de equipamentos de informática
+178	INFORMAÇÃO E COMUNICAÇÃO	Técnico em Informática para Internet	317105	Programador de internet
+179	INFORMAÇÃO E COMUNICAÇÃO	Técnico em Informática para Internet	317120	Programador de multimídia
+180	INFORMAÇÃO E COMUNICAÇÃO	Técnico em Informática para Internet	317110	Programador de sistemas de informação
+181	INFORMAÇÃO E COMUNICAÇÃO	Técnico em Manutenção e Suporte em Informática	313220	Técnico em manutenção de equipamentos de informática
+182	INFORMAÇÃO E COMUNICAÇÃO	Técnico em Manutenção e Suporte em Informática	317210	Técnico de apoio ao usuário de informática (helpdesk)
+183	INFORMAÇÃO E COMUNICAÇÃO	Técnico em Programação de Jogos Digitais	317120	Programador de multimídia
+184	INFORMAÇÃO E COMUNICAÇÃO	Técnico em Redes de Computadores	313220	Técnico em Manutenção de equipamentos de informática
+185	INFORMAÇÃO E COMUNICAÇÃO	Técnico em Redes de Computadores	317210	Técnico de apoio ao usuário de informática (helpdesk)
+186	INFORMAÇÃO E COMUNICAÇÃO	Técnico em Sistemas de Comutação	313310	Técnico de rede (telecomunicações)
+187	INFORMAÇÃO E COMUNICAÇÃO	Técnico em Sistemas de Comutação	313305	Técnico de comunicação de dados
+188	INFORMAÇÃO E COMUNICAÇÃO	Técnico em Sistemas de Comutação	731305	Instalador-reparador de equipamentos de comutação em telefonia
+189	INFORMAÇÃO E COMUNICAÇÃO	Técnico em Sistemas de Transmissão	313320	Técnico de transmissão (telecomunicações)
+190	INFORMAÇÃO E COMUNICAÇÃO	Técnico em Sistemas de Transmissão	313310	Técnico de rede (telecomunicações)
+191	INFORMAÇÃO E COMUNICAÇÃO	Técnico em Sistemas de Transmissão	313305	Técnico de comunicação de dados
+192	INFORMAÇÃO E COMUNICAÇÃO	Técnico em Sistemas de Transmissão	313315	Técnico de Telecomunicações (Telefonia)
+193	INFORMAÇÃO E COMUNICAÇÃO	Técnico em Sistemas de Transmissão	391205	Inspetor de qualidade
+194	INFORMAÇÃO E COMUNICAÇÃO	Técnico em Telecomunicações	313315	Técnico de telecomunicações (telefonia)
+195	INFORMAÇÃO E COMUNICAÇÃO	Técnico em Telecomunicações	313305	Técnico de comunicação de dados
+196	INFORMAÇÃO E COMUNICAÇÃO	Técnico em Telecomunicações	313310	Técnico de rede (telecomunicações)
+197	INFORMAÇÃO E COMUNICAÇÃO	Técnico em Telecomunicações	313320	Técnico de transmissão (telecomunicações)
+198	INFRAESTRUTURA	Técnico Aeroportuário	342540	Supervisor da administração de aeroportos
+199	INFRAESTRUTURA	Técnico Aeroportuário	342210	Despachante aduaneiro
+200	INFRAESTRUTURA	Técnico Aeroportuário	342510	Despachante operacional de voo
+201	INFRAESTRUTURA	Técnico Aeroportuário	342515	Fiscal de aviação civil (FAC)
+202	INFRAESTRUTURA	Técnico Aeroportuário	342530	Inspetor de aviação civil
+203	INFRAESTRUTURA	Técnico Aeroportuário	342535	Operador de atendimento aeroviário
+204	INFRAESTRUTURA	Técnico em Agrimensura	312320	Topógrafo
+205	INFRAESTRUTURA	Técnico em Agrimensura	318110	Desenhista técnico (cartografia)
+206	INFRAESTRUTURA	Técnico em Agrimensura	312310	Técnico em geodésia e cartografia
+207	INFRAESTRUTURA	Técnico em Carpintaria	321205	Técnico em madeira
+208	INFRAESTRUTURA	Técnico em Desenho de Construção Civil	318005	Desenhista técnico
+209	INFRAESTRUTURA	Técnico em Desenho de Construção Civil	318010	Desenhista detalhista
+210	INFRAESTRUTURA	Técnico em Desenho de Construção Civil	318015	Desenhista detalhista
+211	INFRAESTRUTURA	Técnico em Desenho de Construção Civil	318105	Desenhista técnico (arquitetura)
+212	INFRAESTRUTURA	Técnico em Desenho de Construção Civil	318110	Desenhista técnico (cartografia)
+213	INFRAESTRUTURA	Técnico em Desenho de Construção Civil	318115	Desenhista técnico (construção civil)
+214	INFRAESTRUTURA	Técnico em Desenho de Construção Civil	318120	Desenhista técnico (instalações hidrossanitárias)
+215	INFRAESTRUTURA	Técnico em Desenho de Construção Civil	318505	Desenhista projetista de arquitetura
+216	INFRAESTRUTURA	Técnico em Desenho de Construção Civil	318510	Desenhista projetista de construção civil
+217	INFRAESTRUTURA	Técnico em Edificações	312105	Técnico de obras civis
+218	INFRAESTRUTURA	Técnico em Edificações	318005	Desenhista técnico
+219	INFRAESTRUTURA	Técnico em Edificações	318010	Desenhista detalhista
+220	INFRAESTRUTURA	Técnico em Edificações	318015	Desenhista detalhista
+221	INFRAESTRUTURA	Técnico em Edificações	318105	Desenhista técnico (arquitetura)
+222	INFRAESTRUTURA	Técnico em Edificações	318110	Desenhista técnico (cartografia)
+223	INFRAESTRUTURA	Técnico em Edificações	318115	Desenhista técnico (construção civil)
+224	INFRAESTRUTURA	Técnico em Edificações	318120	Desenhista técnico (instalações hidrossanitárias)
+225	INFRAESTRUTURA	Técnico em Estradas	312205	Técnico de estradas
+226	INFRAESTRUTURA	Técnico em Estradas	312320	Topógrafo
+227	INFRAESTRUTURA	Técnico em Geodésia e Cartografia	312310	Técnico em geodésia e cartografia
+228	INFRAESTRUTURA	Técnico em Geodésia e Cartografia	312320	Topógrafo
+229	INFRAESTRUTURA	Técnico em Geodésia e Cartografia	318110	Desenhista técnico em cartografia
+230	INFRAESTRUTURA	Técnico em Geodésia e Cartografia	318110	Desenhista de topografia
+231	INFRAESTRUTURA	Técnico em Geoprocessamento	312320	Topógrafo
+232	INFRAESTRUTURA	Técnico em Geoprocessamento	318110	Desenhista técnico em cartografia
+233	INFRAESTRUTURA	Técnico em Geoprocessamento	318110	Desenhista de topografia
+234	INFRAESTRUTURA	Técnico em Hidrologia	312315	Técnico em hidrografia
+235	INFRAESTRUTURA	Técnico em Portos	342210	Despachante aduaneiro
+236	INFRAESTRUTURA	Técnico em Portos	342605	Chefe de estação portuária
+237	INFRAESTRUTURA	Técnico em Portos	342610	Supervisor de operações portuárias
+238	INFRAESTRUTURA	Técnico em Portos	354305	Analista de exportação e importação
+239	INFRAESTRUTURA	Técnico em Saneamento	312210	Técnico de saneamento
+240	INFRAESTRUTURA	Técnico em Trânsito	342305	Chefe de serviço de transporte rodoviário (passageiros e cargas)
+241	INFRAESTRUTURA	Técnico em Trânsito	342310	Inspetor de serviços de transportes rodoviários (passageiros e cargas)
+242	INFRAESTRUTURA	Técnico em Transporte Aquaviário	342610	Supervisor de operações portuárias
+243	INFRAESTRUTURA	Técnico em Transporte Aquaviário	342605	Chefe de estação portuária
+244	INFRAESTRUTURA	Técnico em Transporte de Cargas	342305	Chefe de serviço de transporte rodoviário (passageiros e cargas)
+245	INFRAESTRUTURA	Técnico em Transporte de Cargas	342310	Inspetor de serviços de transportes rodoviários (passageiros e cargas)
+246	INFRAESTRUTURA	Técnico em Transporte de Cargas	342120	Afretador
+247	INFRAESTRUTURA	Técnico em Transporte de Cargas	342315	Supervisor de carga e descarga
+248	INFRAESTRUTURA	Técnico em Transporte de Cargas	510105	Supervisor de transportes
+249	INFRAESTRUTURA	Técnico em Transporte Dutoviário	342120	Afretador
+250	INFRAESTRUTURA	Técnico em Transporte Dutoviário	342110	Operador de transporte multimodal
+251	INFRAESTRUTURA	Técnico em Transporte Dutoviário	342125	Assistente de logística de transporte
+252	INFRAESTRUTURA	Técnico em Transporte Dutoviário	342315	Supervisor de carga e descarga
+253	INFRAESTRUTURA	Técnico em Transporte Metroferroviário	342120	Afretador
+254	INFRAESTRUTURA	Técnico em Transporte Metroferroviário	342110	Operador de transporte multimodal
+255	INFRAESTRUTURA	Técnico em Transporte Metroferroviário	342315	Supervisor de carga e descarga
+256	INFRAESTRUTURA	Técnico em Transporte Metroferroviário	783110	Manobrador
+257	INFRAESTRUTURA	Técnico em Transporte Rodoviário	342210	Despachante aduaneiro
+258	INFRAESTRUTURA	Técnico em Transporte Rodoviário	342305	Chefe de serviço de transporte rodoviário (passageiros e cargas)
+259	INFRAESTRUTURA	Técnico em Transporte Rodoviário	342310	Inspetor de serviços de transportes rodoviários (passageiros e cargas)
+260	INFRAESTRUTURA	Técnico em Transporte Rodoviário	342315	Supervisor de carga e descarga
+261	INFRAESTRUTURA	Técnico em Transporte Rodoviário	510105	Supervisor de transportes
+262	MILITAR	Técnico em Ações de Comandos	517310	Agente de segurança
+263	MILITAR	Técnico em Ações de Comandos	371410	Recreador
+264	MILITAR	Técnico em Ações de Comandos	517420	Vigia
+265	MILITAR	Técnico em Armamento de Aeronaves	914105	Mecânico de manutenção de aeronaves, em geral
+266	MILITAR	Técnico em Artilharia Antiaérea	517305	Agente de proteção de aeroporto
+267	MILITAR	Técnico em Artilharia Antiaérea	517310	Agente de segurança
+268	MILITAR	Técnico em Artilharia	517310	Agente de segurança
+269	MILITAR	Técnico em Bombeiro Aeronáutico	---	
+270	MILITAR	Técnico em Cavalaria	517310	Agente de segurança
+271	MILITAR	Técnico em Cavalaria	623015	Trabalhador de pecuária polivalente
+272	MILITAR	Técnico em Cavalaria	333110	Instrutor de cursos livres
+273	MILITAR	Técnico em Combate a Incêndio, Resgate e Prevenção de Acidentes de Aviação	517105	Bombeiro de aeródromo
+274	MILITAR	Técnico em Comunicações Aeronáuticas	313320	Técnico em Transmissões
+275	MILITAR	Técnico em Comunicações Aeronáuticas	313320	Técnico de Manutenção de Equipamento de Transmissão
+276	MILITAR	Técnico em Comunicações Navais	---	
+277	MILITAR	Técnico em Controle de Tráfego Aéreo	342505	Controlador de Tráfego Aéreo
+278	MILITAR	Técnico em Desenho Militar	318510	Desenhista Projetista de Construção Civil
+279	MILITAR	Técnico em Desenho Militar	318115	Desenhista Técnico (Construção Civil)
+280	MILITAR	Técnico em Desenho Militar	318015	Desenhista Detalhista
+281	MILITAR	Técnico em Eletricidade e Instrumentos Aeronáuticos	914105	Mecânico de manutenção de aeronaves, em geral
+282	MILITAR	Técnico em Equipamento de Engenharia	314120	Técnico mecânico (máquinas)
+283	MILITAR	Técnico em Equipamentos de Voo	517310	Agente de Segurança
+284	MILITAR	Técnico em Estrutura e Pintura de Aeronaves	724430	Chapeador de aeronaves
+285	MILITAR	Técnico em Estrutura e Pintura de Aeronaves	725605	Montador de estruturas de aeronaves
+286	MILITAR	Técnico em Forças Especiais	517310	Agente de segurança
+287	MILITAR	Técnico em Forças Especiais	371405	Recreador de acantonamento
+288	MILITAR	Técnico em Fotointeligência	312310	Técnico em Geodésia e Cartografia
+289	MILITAR	Técnico em Guarda e Segurança	5173-1	Agente de Segurança
+290	MILITAR	Técnico em Hidrografia	---	
+291	MILITAR	Técnico em Infantaria	517310	Agente de segurança
+292	MILITAR	Técnico em Informações Aeronáuticas	---	
+293	MILITAR	Técnico em Manobras e Equipamentos de Convés	---	
+294	MILITAR	Técnico em Material Bélico	950205	Encarregado de manutenção elétrica de veículos
+295	MILITAR	Técnico em Material Bélico	914405	Mecânico de manutenção de automóveis, motocicletas e veículos similares
+296	MILITAR	Técnico em Material Bélico	914425	Mecânico de veículos automotores a diesel (exceto tratores)
+297	MILITAR	Técnico em Mecânica de Aeronaves	314310	Técnico Mecânico (Aeronaves)
+298	MILITAR	Técnico em Mecânica de Aeronaves	953105	Eletricista de Instalações (Aeronaves)
+299	MILITAR	Técnico em Mecânica de Aeronaves	914105	Mecânico de Manutenção de Aeronaves
+300	MILITAR	Técnico em Mergulho	---	
+301	MILITAR	Técnico em Montanhismo	---	
+302	MILITAR	Técnico em Navegação Fluvial	341230	Piloto fluvial
+303	MILITAR	Técnico em operação de Radar	---	
+304	MILITAR	Técnico em operação de Sonar	---	
+305	MILITAR	Técnico em operações de Engenharia Militar	---	
+306	MILITAR	Técnico em Preparação Física e Desportiva Militar	---	
+307	MILITAR	Técnico em Sensores de Aviação	---	
+308	MILITAR	Técnico em Sinais Navais	---	
+309	MILITAR	Técnico em Sinalização Náutica	---	
+310	MILITAR	Técnico em Suprimento	391115	Controlador de Entrada e Saída
+311	PRODUÇÃO ALIMENTÍCIA	Técnico em Agroindústria	---	
+312	PRODUÇÃO ALIMENTÍCIA	Técnico em Alimentos	325205	Técnico de alimentos
+313	PRODUÇÃO ALIMENTÍCIA	Técnico em Apicultura	---	
+314	PRODUÇÃO ALIMENTÍCIA	Técnico em Cervejaria	840110	Mestre cervejeiro
+315	PRODUÇÃO ALIMENTÍCIA	Técnico em Confeitaria	840120	Chefe de confeitaria
+316	PRODUÇÃO ALIMENTÍCIA	Técnico em Panificação	---	
+317	PRODUÇÃO ALIMENTÍCIA	Técnico em Processamento de Pescado	---	
+318	PRODUÇÃO ALIMENTÍCIA	Técnico em Viticultura e Enologia	325005	Enólogo
+319	PRODUÇÃO CULTURAL E DESIGN	Técnico em Artes Circenses	376205	Acrobata
+320	PRODUÇÃO CULTURAL E DESIGN	Técnico em Artes Circenses	376210	Artista aéreo
+321	PRODUÇÃO CULTURAL E DESIGN	Técnico em Artes Circenses	376220	Contorcionista
+322	PRODUÇÃO CULTURAL E DESIGN	Técnico em Artes Circenses	376230	Equilibrista
+323	PRODUÇÃO CULTURAL E DESIGN	Técnico em Artes Circenses	376235	Mágico
+324	PRODUÇÃO CULTURAL E DESIGN	Técnico em Artes Circenses	376240	Malabarista
+325	PRODUÇÃO CULTURAL E DESIGN	Técnico em Artes Circenses	376245	Palhaço
+326	PRODUÇÃO CULTURAL E DESIGN	Técnico em Artes Circenses	376250	Titeriteiro
+327	PRODUÇÃO CULTURAL E DESIGN	Técnico em Artes Circenses	376255	Trapezista
+328	PRODUÇÃO CULTURAL E DESIGN	Técnico em Artes Visuais	---	
+329	PRODUÇÃO CULTURAL E DESIGN	Técnico em Artesanato	791105	Artesão bordador
+330	PRODUÇÃO CULTURAL E DESIGN	Técnico em Artesanato	791110	Artesão ceramista
+331	PRODUÇÃO CULTURAL E DESIGN	Técnico em Artesanato	791115	Artesão com material reciclável
+332	PRODUÇÃO CULTURAL E DESIGN	Técnico em Artesanato	791120	Artesão confeccionador de biojoias e ecojoias
+333	PRODUÇÃO CULTURAL E DESIGN	Técnico em Artesanato	791125	Artesão do couro
+334	PRODUÇÃO CULTURAL E DESIGN	Técnico em Artesanato	791130	Artesão escultor
+335	PRODUÇÃO CULTURAL E DESIGN	Técnico em Artesanato	791135	Artesão moveleiro (exceto reciclado)
+336	PRODUÇÃO CULTURAL E DESIGN	Técnico em Artesanato	791140	Artesão tecelão
+337	PRODUÇÃO CULTURAL E DESIGN	Técnico em Artesanato	791145	Artesão trançador
+338	PRODUÇÃO CULTURAL E DESIGN	Técnico em Artesanato	791150	Artesão crocheteiro
+339	PRODUÇÃO CULTURAL E DESIGN	Técnico em Artesanato	791155	Artesão tricoteiro
+340	PRODUÇÃO CULTURAL E DESIGN	Técnico em Artesanato	791160	Artesão rendeiro
+341	PRODUÇÃO CULTURAL E DESIGN	Técnico em Canto	371405	Recreador de acantonamento
+342	PRODUÇÃO CULTURAL E DESIGN	Técnico em Cenografia	374205	Cenotécnico (cinema, vídeo, televisão, teatro e espetáculos)
+343	PRODUÇÃO CULTURAL E DESIGN	Técnico em Cenografia	374210	Maquinista de cinema e vídeo
+344	PRODUÇÃO CULTURAL E DESIGN	Técnico em Cenografia	374215	Maquinista de teatro e espetáculos
+345	PRODUÇÃO CULTURAL E DESIGN	Técnico em Composição e Arranjo	---	
+346	PRODUÇÃO CULTURAL E DESIGN	Técnico em Comunicação Visual	371305	Técnico em programação visual
+347	PRODUÇÃO CULTURAL E DESIGN	Técnico em Comunicação Visual	318405	Desenhista técnico (artes gráficas)
+348	PRODUÇÃO CULTURAL E DESIGN	Técnico em Conservação e Restauro	768710	Restaurador de livros
+349	PRODUÇÃO CULTURAL E DESIGN	Técnico em Dança	376105	Dançarino tradicional
+350	PRODUÇÃO CULTURAL E DESIGN	Técnico em Dança	376115	Dançarino popular
+351	PRODUÇÃO CULTURAL E DESIGN	Técnico em Design de Calçados	318815	Modelista de Calçados
+352	PRODUÇÃO CULTURAL E DESIGN	Técnico em Design de Embalagens	318430	Desenhista técnico de embalagens, maquetes e leiautes
+353	PRODUÇÃO CULTURAL E DESIGN	Técnico em Design de Interiores	375105	Designer de interiores
+354	PRODUÇÃO CULTURAL E DESIGN	Técnico em Design de Interiores	318010	Desenhista detalhista
+355	PRODUÇÃO CULTURAL E DESIGN	Técnico em Design de Interiores	318015	Detalhista em desenho técnico
+356	PRODUÇÃO CULTURAL E DESIGN	Técnico em Design de Joias	---	
+357	PRODUÇÃO CULTURAL E DESIGN	Técnico em Design de Móveis	318425	Desenhista técnico (mobiliário)
+358	PRODUÇÃO CULTURAL E DESIGN	Técnico em Design de Móveis	318805	Projetista de móveis
+359	PRODUÇÃO CULTURAL E DESIGN	Técnico em Design de Móveis	771115	Maquetista na marcenaria
+360	PRODUÇÃO CULTURAL E DESIGN	Técnico em Documentação Musical	---	
+361	PRODUÇÃO CULTURAL E DESIGN	Técnico em Fabricação de Instrumentos Musicais	742120	Confeccionador de instrumentos de percussão (pele, couro ou plástico)
+362	PRODUÇÃO CULTURAL E DESIGN	Técnico em Fabricação de Instrumentos Musicais	742125	Confeccionador de instrumentos de sopro (madeira)
+363	PRODUÇÃO CULTURAL E DESIGN	Técnico em Fabricação de Instrumentos Musicais	742130	Confeccionador de instrumentos de sopro (metal)
+364	PRODUÇÃO CULTURAL E DESIGN	Técnico em Fabricação de Instrumentos Musicais	742135	Confeccionador de órgão
+365	PRODUÇÃO CULTURAL E DESIGN	Técnico em Fabricação de Instrumentos Musicais	742140	Confeccionador de piano
+366	PRODUÇÃO CULTURAL E DESIGN	Técnico em Figurino Cênico	318810	Modelista de roupas
+367	PRODUÇÃO CULTURAL E DESIGN	Técnico em Instrumento Musical	---	
+368	PRODUÇÃO CULTURAL E DESIGN	Técnico em Modelagem do Vestuário	318810	Modelista de roupas
+369	PRODUÇÃO CULTURAL E DESIGN	Técnico em Multimídia	317120	Programador de multimídia
+370	PRODUÇÃO CULTURAL E DESIGN	Técnico em Museologia	371210	Técnico em museologia
+371	PRODUÇÃO CULTURAL E DESIGN	Técnico em Paisagismo	---	
+372	PRODUÇÃO CULTURAL E DESIGN	Técnico em Processos Fonográficos	374105	Técnico em gravação de áudio
+373	PRODUÇÃO CULTURAL E DESIGN	Técnico em Processos Fonográficos	374110	Técnico em instalação de equipamentos de áudio
+374	PRODUÇÃO CULTURAL E DESIGN	Técnico em Processos Fonográficos	374115	Técnico em masterização de áudio
+375	PRODUÇÃO CULTURAL E DESIGN	Técnico em Processos Fonográficos	374120	Projetista de som
+376	PRODUÇÃO CULTURAL E DESIGN	Técnico em Processos Fonográficos	373105	Operador de áudio de continuidade (rádio)
+377	PRODUÇÃO CULTURAL E DESIGN	Técnico em Processos Fonográficos	373110	Operador de central de rádio
+378	PRODUÇÃO CULTURAL E DESIGN	Técnico em Processos Fonográficos	373115	Operador de externa (rádio)
+379	PRODUÇÃO CULTURAL E DESIGN	Técnico em Processos Fonográficos	373120	Operador de gravação de rádio
+380	PRODUÇÃO CULTURAL E DESIGN	Técnico em Processos Fonográficos	373125	Operador de transmissor de rádio
+381	PRODUÇÃO CULTURAL E DESIGN	Técnico em Processos Fonográficos	374130	Técnico em mixagem de áudio
+382	PRODUÇÃO CULTURAL E DESIGN	Técnico em Processos Fotográficos	---	
+383	PRODUÇÃO CULTURAL E DESIGN	Técnico em Produção de Áudio e Vídeo	372105	Diretor de fotografia
+384	PRODUÇÃO CULTURAL E DESIGN	Técnico em Produção de Áudio e Vídeo	372115	Operador de câmera de televisão
+385	PRODUÇÃO CULTURAL E DESIGN	Técnico em Produção de Áudio e Vídeo	373205	Técnico em operação de equipamentos de produção para televisão e produtoras de vídeo
+386	PRODUÇÃO CULTURAL E DESIGN	Técnico em Produção de Áudio e Vídeo	374105	Técnico em gravação de áudio
+387	PRODUÇÃO CULTURAL E DESIGN	Técnico em Produção de Áudio e Vídeo	374210	Maquinista de cinema e vídeo
+388	PRODUÇÃO CULTURAL E DESIGN	Técnico em Produção de Áudio e Vídeo	374405	Editor de tv e vídeo
+389	PRODUÇÃO CULTURAL E DESIGN	Técnico em Produção de Áudio e Vídeo	374415	Finalizador de vídeo
+390	PRODUÇÃO CULTURAL E DESIGN	Técnico em Produção de Áudio e Vídeo	373210	Técnico em operação de equipamento de exibição de televisão
+391	PRODUÇÃO CULTURAL E DESIGN	Técnico em Produção de Áudio e Vídeo	373220	Supervisor técnico operacional de sistemas de televisão e produtoras de vídeo
+392	PRODUÇÃO CULTURAL E DESIGN	Técnico em Produção de Áudio e Vídeo	374130	Técnico em mixagem de áudio
+393	PRODUÇÃO CULTURAL E DESIGN	Técnico em Produção de Moda	375110	Designer de vitrines
+394	PRODUÇÃO CULTURAL E DESIGN	Técnico em Publicidade	354110	Agenciador de propaganda
+395	PRODUÇÃO CULTURAL E DESIGN	Técnico em Rádio e Televisão	373215	Técnico em operação de equipamentos de transmissão/recepção de televisão
+396	PRODUÇÃO CULTURAL E DESIGN	Técnico em Rádio e Televisão	373110	Operador de central de rádio
+397	PRODUÇÃO CULTURAL E DESIGN	Técnico em Rádio e Televisão	374125	Técnico em sonorização
+398	PRODUÇÃO CULTURAL E DESIGN	Técnico em Rádio e Televisão	262115	Produtor de rádio
+399	PRODUÇÃO CULTURAL E DESIGN	Técnico em Rádio e Televisão	262125	Produtor de televisão
+400	PRODUÇÃO CULTURAL E DESIGN	Técnico em Rádio e Televisão	373210	Técnico em operação de equipamento de exibição de televisão
+401	PRODUÇÃO CULTURAL E DESIGN	Técnico em Rádio e Televisão	373220	Supervisor técnico operacional de sistemas de televisão e produtoras de vídeo
+402	PRODUÇÃO CULTURAL E DESIGN	Técnico em Regência	---	
+403	PRODUÇÃO CULTURAL E DESIGN	Técnico em Teatro	374205	Cenotécnico (cinema, vídeo, televisão, teatro e espetáculos)
+404	PRODUÇÃO INDUSTRIAL 	Técnico em Açúcar e Álcool	311105	Técnico químico
+405	PRODUÇÃO INDUSTRIAL 	Técnico em Açúcar e Álcool	325305	Técnico em biotecnologia
+406	PRODUÇÃO INDUSTRIAL 	Técnico em Análises Químicas	311105	Técnico químico
+407	PRODUÇÃO INDUSTRIAL 	Técnico em Análises Químicas	301105	Técnico de laboratório industrial
+408	PRODUÇÃO INDUSTRIAL 	Técnico em Análises Químicas	301110	Técnico de laboratório de análises físicoquímicas (materiais de construção)
+409	PRODUÇÃO INDUSTRIAL 	Técnico em Biocombustíveis	---	
+410	PRODUÇÃO INDUSTRIAL 	Técnico em Biotecnologia	325305	Técnico em biotecnologia
+411	PRODUÇÃO INDUSTRIAL 	Técnico em Biotecnologia	325310	Técnico em imunobiológicos
+412	PRODUÇÃO INDUSTRIAL 	Técnico em Calçados	319105	Técnico em calçados e artefatos de couro
+413	PRODUÇÃO INDUSTRIAL 	Técnico em Calçados	318815	Modelista de calçados
+414	PRODUÇÃO INDUSTRIAL 	Técnico em Celulose e Papel	311110	Técnico de celulose e papel
+415	PRODUÇÃO INDUSTRIAL 	Técnico em Celulose e Papel	311705	Colorista de papel
+416	PRODUÇÃO INDUSTRIAL 	Técnico em Cerâmica	311305	Técnico em materiais, produtos cerâmicos e vidros
+417	PRODUÇÃO INDUSTRIAL 	Técnico em Construção Naval	318215	Desenhista técnico naval
+418	PRODUÇÃO INDUSTRIAL 	Técnico em Curtimento	311115	Técnico em Curtimento
+419	PRODUÇÃO INDUSTRIAL 	Técnico em Curtimento	760205	Supervisor de curtimento
+420	PRODUÇÃO INDUSTRIAL 	Técnico em Fabricação Mecânica	314110	Técnico mecânico
+421	PRODUÇÃO INDUSTRIAL 	Técnico em Fabricação Mecânica	391125	Técnico de planejamento de produção
+422	PRODUÇÃO INDUSTRIAL 	Técnico em Fabricação Mecânica	314205	Técnico mecânico na fabricação de ferramentas
+423	PRODUÇÃO INDUSTRIAL 	Técnico em Fabricação Mecânica	314610	Técnico em caldeiraria
+424	PRODUÇÃO INDUSTRIAL 	Técnico em Impressão offset	---	
+425	PRODUÇÃO INDUSTRIAL 	Técnico em Impressão Rotográfica e Flexográfica	---	
+426	PRODUÇÃO INDUSTRIAL 	Técnico em Joalheria	---	
+427	PRODUÇÃO INDUSTRIAL 	Técnico em Móveis	319205	Técnico do mobiliário
+428	PRODUÇÃO INDUSTRIAL 	Técnico em Móveis	318805	Projetista de móveis
+429	PRODUÇÃO INDUSTRIAL 	Técnico em Móveis	318425	Desenhista técnico (mobiliário)
+430	PRODUÇÃO INDUSTRIAL 	Técnico em Petróleo e Gás	301115	Técnico químico de petróleo
+431	PRODUÇÃO INDUSTRIAL 	Técnico em Petróleo e Gás	316310	Técnico de mineração (óleo e petróleo)
+432	PRODUÇÃO INDUSTRIAL 	Técnico em Petróleo e Gás	316325	Técnico de produção em refino de petróleo
+433	PRODUÇÃO INDUSTRIAL 	Técnico em Petroquímica	311205	Técnico em petroquímica
+434	PRODUÇÃO INDUSTRIAL 	Técnico em Petroquímica	316325	Técnico de produção em refino de petróleo
+435	PRODUÇÃO INDUSTRIAL 	Técnico em Plásticos	311410	Técnico em plástico
+436	PRODUÇÃO INDUSTRIAL 	Técnico em Pré-Impressão Gráfica	371310	Técnico gráfico
+437	PRODUÇÃO INDUSTRIAL 	Técnico em Pré-Impressão Gráfica	318405	Desenhista técnico (artes gráficas)
+438	PRODUÇÃO INDUSTRIAL 	Técnico em Processos Gráficos	---	
+439	PRODUÇÃO INDUSTRIAL 	Técnico em Química	311105	Técnico químico
+440	PRODUÇÃO INDUSTRIAL 	Técnico em Química	301105	Técnico de laboratório industrial
+441	PRODUÇÃO INDUSTRIAL 	Técnico em Química	301110	Técnico de laboratório de análises físico-químicas (materiais de construção)
+442	PRODUÇÃO INDUSTRIAL 	Técnico em Química	301115	Técnico químico de petróleo
+443	PRODUÇÃO INDUSTRIAL 	Técnico em Química	311205	Técnico em petroquímica
+444	PRODUÇÃO INDUSTRIAL 	Técnico em Têxtil	311605	Técnico têxtil
+445	PRODUÇÃO INDUSTRIAL 	Técnico em Têxtil	311615	Técnico têxtil de fiação
+446	PRODUÇÃO INDUSTRIAL 	Técnico em Têxtil	311620	Técnico têxtil de malharia
+447	PRODUÇÃO INDUSTRIAL 	Técnico em Têxtil	311625	Técnico têxtil de tecelagem
+448	PRODUÇÃO INDUSTRIAL 	Técnico em Têxtil	311610	Técnico têxtil (tratamentos químicos)
+449	PRODUÇÃO INDUSTRIAL 	Técnico em Têxtil	311710	Colorista têxtil
+450	PRODUÇÃO INDUSTRIAL 	Técnico em Têxtil	318420	Desenhista técnico (indústria têxtil)
+451	PRODUÇÃO INDUSTRIAL 	Técnico em Têxtil	311720	Preparador de tintas (fábrica de tecidos)
+452	PRODUÇÃO INDUSTRIAL 	Técnico em Vestuário	319110	Técnico em confecções do vestuário
+453	RECURSOS NATURAIS	Técnico em Agricultura	321105	Técnico agrícola
+454	RECURSOS NATURAIS	Técnico em Agroecologia	---	
+455	RECURSOS NATURAIS	Técnico em Agronegócio	---	
+456	RECURSOS NATURAIS	Técnico em Agropecuária	321110	Técnico agropecuário
+457	RECURSOS NATURAIS	Técnico em Aquicultura	321305	Técnico em piscicultura
+458	RECURSOS NATURAIS	Técnico em Aquicultura	321310	Técnico em carcinicultura
+459	RECURSOS NATURAIS	Técnico em Aquicultura	321315	Técnico em mitilicultura
+460	RECURSOS NATURAIS	Técnico em Aquicultura	321320	Técnico em ranicultura
+461	RECURSOS NATURAIS	Técnico em Cafeicultura	---	
+462	RECURSOS NATURAIS	Técnico em Equipamentos Pesqueiros	---	
+463	RECURSOS NATURAIS	Técnico em Florestas	321210	Técnico florestal
+464	RECURSOS NATURAIS	Técnico em Fruticultura	---	
+465	RECURSOS NATURAIS	Técnico em Geologia	316110	Técnico em geologia
+466	RECURSOS NATURAIS	Técnico em Geologia	316320	Técnico em pesquisa mineral
+467	RECURSOS NATURAIS	Técnico em Grãos	325205	Técnico de alimentos
+468	RECURSOS NATURAIS	Técnico em Mineração	316305	Técnico de mineração
+469	RECURSOS NATURAIS	Técnico em Mineração	316315	Técnico em processamento mineral (exceto petróleo)
+470	RECURSOS NATURAIS	Técnico em Mineração	316320	Técnico em pesquisa mineral
+471	RECURSOS NATURAIS	Técnico em Pesca	341220	Patrão de pesca de alto-mar
+472	RECURSOS NATURAIS	Técnico em Pesca	341225	Patrão de pesca na navegação interior
+473	RECURSOS NATURAIS	Técnico em Pós-Colheita	325205	Técnico de alimentos
+474	RECURSOS NATURAIS	Técnico em Recursos Minerais	316315	Técnico em processamento mineral (exceto petróleo)
+475	RECURSOS NATURAIS	Técnico em Recursos Minerais	316330	Técnico em planejamento de lavra de minas
+476	RECURSOS NATURAIS	Técnico em Recursos Minerais	316105	Técnico em geofísica
+477	RECURSOS NATURAIS	Técnico em Recursos Minerais	316115	Técnico em geoquímica
+478	RECURSOS NATURAIS	Técnico em Recursos Minerais	316120	Técnico em geotecnia
+479	RECURSOS NATURAIS	Técnico em Recursos Minerais	316320	Técnico em pesquisa mineral
+480	RECURSOS NATURAIS	Técnico em Recursos Pesqueiros	321305	Técnico em piscicultura
+481	RECURSOS NATURAIS	Técnico em Recursos Pesqueiros	321310	Técnico em carcinicultura
+482	RECURSOS NATURAIS	Técnico em Recursos Pesqueiros	321315	Técnico em mitilicultura
+483	RECURSOS NATURAIS	Técnico em Recursos Pesqueiros	321320	Técnico em ranicultura
+484	RECURSOS NATURAIS	Técnico em Recursos Pesqueiros	341220	Patrão de pesca de alto-mar
+485	RECURSOS NATURAIS	Técnico em Recursos Pesqueiros	341225	Patrão de pesca na navegação interior
+486	RECURSOS NATURAIS	Técnico em Zootecnia	323105	Técnico em pecuária
+487	SEGURANÇA	Técnico em Defesa Civil	---	
+488	SEGURANÇA	Técnico em Segurança do Trabalho	351605	Técnico em segurança do trabalho
+489	TURISMO, HOSPITALIDADE E LAZER	Técnico em Agenciamento de Viagem	354810	Operador de turismo
+490	TURISMO, HOSPITALIDADE E LAZER	Técnico em Agenciamento de Viagem	354815	Agente de viagem
+491	TURISMO, HOSPITALIDADE E LAZER	Técnico em Cozinha	---	
+492	TURISMO, HOSPITALIDADE E LAZER	Técnico em Eventos	354820	Organizador de evento
+493	TURISMO, HOSPITALIDADE E LAZER	Técnico em Eventos	375120	Decorador de eventos
+494	TURISMO, HOSPITALIDADE E LAZER	Técnico em Eventos	376305	Apresentador de eventos
+495	TURISMO, HOSPITALIDADE E LAZER	Técnico em Guia de Turismo	511405	Guia de Turismo
+496	TURISMO, HOSPITALIDADE E LAZER	Técnico em Hospedagem	422120	Recepcionista de Hotel
+497	TURISMO, HOSPITALIDADE E LAZER	Técnico em Hospedagem	513115	Governanta de hotelaria
+498	TURISMO, HOSPITALIDADE E LAZER	Técnico em Lazer	371405	Recreador de Acantonamento
+499	TURISMO, HOSPITALIDADE E LAZER	Técnico em Lazer	371410	Recreador
+500	TURISMO, HOSPITALIDADE E LAZER	Técnico em Restaurante e Bar	510130	Chefe de bar
+501	TURISMO, HOSPITALIDADE E LAZER	Técnico em Restaurante e Bar	510135	Maître
