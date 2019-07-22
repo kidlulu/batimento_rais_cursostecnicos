@@ -15,7 +15,7 @@ create table cursotec.concluintes
 GO
 
 BULK INSERT cursotec.concluintes
-FROM '\\320CDL415.codeplandf.gdfnet.df\batimento_rais_cursostecnicos\lista_concluintes_carga_db_codeplan.txt' WITH (FIELDTERMINATOR='|',FIRSTROW=2,codepage=1252)
+FROM '\\320CDL415.codeplandf.gdfnet.df\insercao_cursos_tecnicos\LISTA DE CONCLUINTES 2014 2013 2012.txt' WITH (FIELDTERMINATOR='|',FIRSTROW=2,codepage=1252)
 GO
 
 alter table
@@ -38,7 +38,7 @@ select
                             DBO.FnRecuperaPedacosNomeComposto(t2.nometrabalhador,''),
                             substring(t2.nometrabalhador,(len(t2.nometrabalhador) - (patindex('% %',reverse(t2.nometrabalhador))))+2,patindex('% %',reverse(t2.nometrabalhador)) ))
 	          ,' ',''))) as matchcode,
- t2.cpf,
+ REPLACE(t2.cpf,' ','0') as cpf,
  cast(t2.tipovinculo as int) as tipovinculo,
  cast(t2.tipoadmissao as int) as tipoadmissao,
  cast(t2.tiposalario as int) as tiposalario,
@@ -67,7 +67,7 @@ select
                             DBO.FnRecuperaPedacosNomeComposto(t2.nometrabalhador,''),
                             substring(t2.nometrabalhador,(len(t2.nometrabalhador) - (patindex('% %',reverse(t2.nometrabalhador))))+2,patindex('% %',reverse(t2.nometrabalhador)) ))
 	          ,' ',''))) as matchcode,
- t2.cpf,
+ REPLACE(t2.cpf,' ','0') as cpf,
  cast(t2.tipovinculo as int) as tipovinculo,
  cast(t2.tipoadmissao as int) as tipoadmissao,
  cast(t2.tiposalario as int) as tiposalario,
@@ -94,7 +94,7 @@ select
                             DBO.FnRecuperaPedacosNomeComposto(t2.nometrabalhador,''),
                             substring(t2.nometrabalhador,(len(t2.nometrabalhador) - (patindex('% %',reverse(t2.nometrabalhador))))+2,patindex('% %',reverse(t2.nometrabalhador)) ))
 	          ,' ',''))) as matchcode,
- t2.cpf,
+ REPLACE(t2.cpf,' ','0') as cpf,
  cast(t2.tipovinculo as int) as tipovinculo,
  cast(t2.tipoadmissao as int) as tipoadmissao,
  cast(t2.tiposalario as int) as tiposalario,
@@ -121,7 +121,7 @@ select
                             DBO.FnRecuperaPedacosNomeComposto(t2.nometrabalhador,''),
                             substring(t2.nometrabalhador,(len(t2.nometrabalhador) - (patindex('% %',reverse(t2.nometrabalhador))))+2,patindex('% %',reverse(t2.nometrabalhador)) ))
 	          ,' ',''))) as matchcode,
- t2.cpf,
+ REPLACE(t2.cpf,' ','0') as cpf,
  cast(t2.tipovinculo as int) as tipovinculo,
  cast(t2.tipoadmissao as int) as tipoadmissao,
  cast(t2.tiposalario as int) as tiposalario,
@@ -148,7 +148,7 @@ select
                             DBO.FnRecuperaPedacosNomeComposto(t2.nometrabalhador,''),
                             substring(t2.nometrabalhador,(len(t2.nometrabalhador) - (patindex('% %',reverse(t2.nometrabalhador))))+2,patindex('% %',reverse(t2.nometrabalhador)) ))
 	          ,' ',''))) as matchcode,
- t2.cpf,
+ REPLACE(t2.cpf,' ','0') as cpf,
  cast(t2.tipovinculo as int) as tipovinculo,
  cast(t2.tipoadmissao as int) as tipoadmissao,
  cast(t2.tiposalario as int) as tiposalario,
@@ -175,7 +175,7 @@ select
                             DBO.FnRecuperaPedacosNomeComposto(t2.nometrabalhador,''),
                             substring(t2.nometrabalhador,(len(t2.nometrabalhador) - (patindex('% %',reverse(t2.nometrabalhador))))+2,patindex('% %',reverse(t2.nometrabalhador)) ))
 	          ,' ',''))) as matchcode,
- t2.cpf,
+ REPLACE(t2.cpf,' ','0') as cpf,
  cast(t2.tipovinculo as int) as tipovinculo,
  cast(t2.tipoadmissao as int) as tipoadmissao,
  cast(t2.tiposalario as int) as tiposalario,
@@ -202,7 +202,7 @@ select
                             DBO.FnRecuperaPedacosNomeComposto(t2.nometrabalhador,''),
                             substring(t2.nometrabalhador,(len(t2.nometrabalhador) - (patindex('% %',reverse(t2.nometrabalhador))))+2,patindex('% %',reverse(t2.nometrabalhador)) ))
 	          ,' ',''))) as matchcode,
- t2.cpf,
+ REPLACE(t2.cpf,' ','0') as cpf,
  cast(t2.tipovinculo as int) as tipovinculo,
  cast(t2.tipoadmissao as int) as tipoadmissao,
  cast(t2.tiposalario as int) as tiposalario,
@@ -229,7 +229,7 @@ select
                             DBO.FnRecuperaPedacosNomeComposto(t2.nometrabalhador,''),
                             substring(t2.nometrabalhador,(len(t2.nometrabalhador) - (patindex('% %',reverse(t2.nometrabalhador))))+2,patindex('% %',reverse(t2.nometrabalhador)) ))
 	          ,' ',''))) as matchcode,
- t2.cpf,
+ REPLACE(t2.cpf,' ','0') as cpf,
  cast(t2.tipovinculo as int) as tipovinculo,
  cast(t2.tipoadmissao as int) as tipoadmissao,
  cast(t2.tiposalario as int) as tiposalario,
@@ -277,8 +277,7 @@ select
  t1.*
 from rais_id.tmp t1,
      cursotec.concluintes t2
-where ltrim(rtrim(t1.matchcode)) = ltrim(rtrim(t2.matchcode))
-and ltrim(rtrim(t1.dtnascimento)) = ltrim(rtrim(t2.dt_nasc))
+where ltrim(rtrim(t1.cpf)) = ltrim(rtrim(t2.cpf_aluno))
 go
 
 insert into cursotec.concluintes_id
@@ -290,4 +289,7 @@ select
  t1.*
 from rais_id.tmp t1,
      cursotec.concluintes t2
-where ltrim(rtrim(t1.cpf)) = ltrim(rtrim(t2.cpf_aluno))
+where ltrim(rtrim(t1.matchcode)) = ltrim(rtrim(t2.matchcode))
+and ltrim(rtrim(t1.dtnascimento)) = ltrim(rtrim(t2.dt_nasc))
+go
+
